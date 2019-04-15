@@ -23,6 +23,8 @@ file system.
 
 ## How To Contributee
 
+Please fork this repository and then issue Pull Requests for review.
+
 ###Copyright
 
 Git.Training
