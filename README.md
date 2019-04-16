@@ -3,7 +3,7 @@
 This is a simple website project for 
 showing how to use Git and Github together.
 Typing some more text about something that I don't remember at this moment.
-more changes from myfeature.
+more changes from myfeature. Updating for emergency fix.
 
 ## Introduction
 
