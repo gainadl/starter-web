@@ -29,5 +29,5 @@ Please fork this repository and then issue Pull Requests for review.
 
 ###Copyright
 
-Git.Training
+Git.Training. All rigths reserved
 
